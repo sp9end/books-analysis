@@ -1,0 +1,180 @@
+title,author,year,pages,rating
+"1984","George Orwell",1949,328,9
+"Zbrodnia i kara","Fiodor Dostojewski",1866,671,6
+"Wiedźmin: Ostatnie życzenie","Andrzej Sapkowski",1993,288,7
+"Duma i uprzedzenie","Jane Austen",1813,432,9
+"Mały Książę","Antoine de Saint-Exupéry",1943,96,10
+"Rok 451 Fahrenheit","Ray Bradbury",1953,249,8
+"Folwark zwierzęcy","George Orwell",1945,112,7
+"Solaris","Stanisław Lem",1961,204,6
+"Hobbit","J.R.R. Tolkien",1937,310,10
+"Władca Pierścieni: Drużyna Pierścienia","J.R.R. Tolkien",1954,423,9
+"Harry Potter i Kamień Filozoficzny","J.K. Rowling",1997,320,8
+"Harry Potter i Komnata Tajemnic","J.K. Rowling",1998,341,7
+"Harry Potter i Więzień Azkabanu","J.K. Rowling",1999,435,9
+"Gra o tron","George R.R. Martin",1996,694,10
+"Starcie królów","George R.R. Martin",1998,768,8
+"Nawałnica mieczy","George R.R. Martin",2000,973,9
+"To","Stephen King",1986,1138,8
+"Lśnienie","Stephen King",1977,447,7
+"Carrie","Stephen King",1974,199,6
+"Misery","Stephen King",1987,370,8
+"Metro 2033","Dmitry Glukhovsky",2005,458,7
+"Metro 2034","Dmitry Glukhovsky",2009,360,6
+"Metro 2035","Dmitry Glukhovsky",2015,480,7
+"Proces","Franz Kafka",1925,255,6
+"Obcy","Albert Camus",1942,123,7
+"Sto lat samotności","Gabriel García Márquez",1967,417,9
+"Miasto ślepców","José Saramago",1995,352,8
+"Norwegian Wood","Haruki Murakami",1987,296,9
+"Kronika ptaka nakręcacza","Haruki Murakami",1994,607,7
+"Zamek","Franz Kafka",1926,352,6
+"Alchemik","Paulo Coelho",1988,208,7
+"Buszujący w zbożu","J.D. Salinger",1951,277,6
+"Mechaniczna pomarańcza","Anthony Burgess",1962,192,8
+"Diuna","Frank Herbert",1965,604,10
+"Mesjasz Diuny","Frank Herbert",1969,336,8
+"Dzieci Diuny","Frank Herbert",1976,432,9
+"Neuromancer","William Gibson",1984,271,8
+"Blade Runner","Philip K. Dick",1968,210,9
+"Ubik","Philip K. Dick",1969,216,7
+"Fundacja","Isaac Asimov",1951,255,9
+"Fundacja i Imperium","Isaac Asimov",1952,247,8
+"Druga Fundacja","Isaac Asimov",1953,240,9
+"Opowieść podręcznej","Margaret Atwood",1985,311,9
+"Bastion","Stephen King",1978,1152,7
+"Wyspa doktora Moreau","H.G. Wells",1896,208,6
+"Wojna światów","H.G. Wells",1898,288,7
+"Frankenstein","Mary Shelley",1818,280,8
+"Dracula","Bram Stoker",1897,418,7
+"Mistrz i Małgorzata","Michaił Bułhakow",1967,480,10
+"Bracia Karamazow","Fiodor Dostojewski",1880,824,9
+"Idiota","Fiodor Dostojewski",1869,667,8
+"Biesy","Fiodor Dostojewski",1872,768,7
+"Szklany klosz","Sylvia Plath",1963,244,6
+"Zabić drozda","Harper Lee",1960,281,9
+"Rzeźnia numer pięć","Kurt Vonnegut",1969,275,8
+"Kocia kołyska","Kurt Vonnegut",1963,304,7
+"Świat Zofii","Jostein Gaarder",1991,403,8
+"Paragraf 22","Joseph Heller",1961,453,9
+"Lot nad kukułczym gniazdem","Ken Kesey",1962,320,8
+"Pokuta","Ian McEwan",2001,351,7
+"Amsterdam","Ian McEwan",1998,193,6
+"Obłok Magellana","Stanisław Lem",1955,302,7
+"Eden","Stanisław Lem",1959,300,8
+"Niezwyciężony","Stanisław Lem",1964,304,9
+"Cyberiada","Stanisław Lem",1965,312,8
+"Bajki robotów","Stanisław Lem",1964,160,7
+"Ania z Zielonego Wzgórza","Lucy Maud Montgomery",1908,320,8
+"Przeminęło z wiatrem","Margaret Mitchell",1936,1037,9
+"Jane Eyre","Charlotte Brontë",1847,532,9
+"Wichrowe Wzgórza","Emily Brontë",1847,416,8
+"Opowieść wigilijna","Charles Dickens",1843,104,7
+"Oliver Twist","Charles Dickens",1838,554,8
+"David Copperfield","Charles Dickens",1850,768,9
+"Great Expectations","Charles Dickens",1861,505,8
+"Robinson Crusoe","Daniel Defoe",1719,320,7
+"Trzej muszkieterowie","Alexandre Dumas",1844,700,9
+"Hrabia Monte Christo","Alexandre Dumas",1844,1276,10
+"Pięćdziesiąt twarzy Greya","E.L. James",2011,514,4
+"Zmierzch","Stephenie Meyer",2005,498,5
+"Nowy księżyc","Stephenie Meyer",2006,563,4
+"Kosogłos","Suzanne Collins",2010,390,7
+"Igrzyska śmierci","Suzanne Collins",2008,374,8
+"Catching Fire","Suzanne Collins",2009,391,7
+"Ready Player One","Ernest Cline",2011,374,8
+"Projekt Hail Mary","Andy Weir",2021,476,9
+"Artemis","Andy Weir",2017,305,7
+"Marsjanin","Andy Weir",2011,369,9
+"Shantaram","Gregory David Roberts",2003,936,9
+"Małe życie","Hanya Yanagihara",2015,720,8
+"Normalni ludzie","Sally Rooney",2018,273,7
+"Rozmowy z przyjaciółmi","Sally Rooney",2017,304,6
+"Where the Crawdads Sing","Delia Owens",2018,384,8
+"The Silent Patient","Alex Michaelides",2019,336,7
+"The Maidens","Alex Michaelides",2021,352,6
+"Educated","Tara Westover",2018,334,9
+"Becoming","Michelle Obama",2018,448,8
+"Sapiens","Yuval Noah Harari",2011,498,9
+"Homo Deus","Yuval Noah Harari",2015,450,8
+"21 lekcji na XXI wiek","Yuval Noah Harari",2018,368,8
+"Quiet","Susan Cain",2012,352,8
+"Atomic Habits","James Clear",2018,320,9
+"Deep Work","Cal Newport",2016,296,8
+"Digital Minimalism","Cal Newport",2019,304,8
+"Outliers","Malcolm Gladwell",2008,336,8
+"Blink","Malcolm Gladwell",2005,277,7
+"The Tipping Point","Malcolm Gladwell",2000,301,8
+"Guns, Germs, and Steel","Jared Diamond",1997,480,9
+"Collapse","Jared Diamond",2005,592,8
+"The Road","Cormac McCarthy",2006,287,8
+"Kraina lodu","Hans Christian Andersen",1844,96,7
+"Baśnie","Bracia Grimm",1812,320,8
+"Pinokio","Carlo Collodi",1883,192,7
+"Peter Pan","J.M. Barrie",1911,240,8
+"Matylda","Roald Dahl",1988,240,8
+"Charlie i fabryka czekolady","Roald Dahl",1964,176,8
+"James i ogromna brzoskwinia","Roald Dahl",1961,160,7
+"Percy Jackson: Złodziej pioruna","Rick Riordan",2005,377,8
+"Percy Jackson: Morze potworów","Rick Riordan",2006,279,7
+"Percy Jackson: Klątwa tytana","Rick Riordan",2007,312,8
+"Percy Jackson: Bitwa w Labiryncie","Rick Riordan",2008,361,8
+"Percy Jackson: Ostatni Olimpijczyk","Rick Riordan",2009,381,9
+"Eragon","Christopher Paolini",2002,503,8
+"Eldest","Christopher Paolini",2005,704,7
+"Brisingr","Christopher Paolini",2008,748,8
+"Inheritance","Christopher Paolini",2011,860,8
+"Ender's Game","Orson Scott Card",1985,324,9
+"Speaker for the Dead","Orson Scott Card",1986,415,8
+"Xenocide","Orson Scott Card",1991,592,7
+"Children of the Mind","Orson Scott Card",1996,370,7
+"Dzieci z Bullerbyn","Astrid Lindgren",1947,192,8
+"Pippi Pończoszanka","Astrid Lindgren",1945,160,8
+"Ronja, córka zbójnika","Astrid Lindgren",1981,256,8
+"Millennium: Mężczyźni, którzy nienawidzą kobiet","Stieg Larsson",2005,672,9
+"Millennium: Dziewczyna, która igrała z ogniem","Stieg Larsson",2006,576,8
+"Millennium: Zamek z piasku, który runął","Stieg Larsson",2007,720,9
+"Zaginiona dziewczyna","Gillian Flynn",2012,422,8
+"Ostre przedmioty","Gillian Flynn",2006,254,7
+"Mroczny zakątek","Gillian Flynn",2009,349,7
+"American Psycho","Bret Easton Ellis",1991,399,7
+"Less Than Zero","Bret Easton Ellis",1985,208,6
+"Fight Club","Chuck Palahniuk",1996,218,8
+"Chłopi","Władysław Reymont",1904,840,9
+"Lalka","Bolesław Prus",1890,688,9
+"Quo Vadis","Henryk Sienkiewicz",1896,640,9
+"Potop","Henryk Sienkiewicz",1886,936,8
+"Ogniem i mieczem","Henryk Sienkiewicz",1884,760,8
+"Faraon","Bolesław Prus",1897,432,8
+"Granica","Zofia Nałkowska",1935,304,7
+"Medaliony","Zofia Nałkowska",1946,160,8
+"Kamienie na szaniec","Aleksander Kamiński",1943,256,9
+"Szczury Wrocławia","Robert J. Szmidt",2014,480,7
+"Achaja","Andrzej Ziemiański",2002,560,8
+"Virion","Andrzej Ziemiański",2017,480,7
+"Pan Lodowego Ogrodu","Jarosław Grzędowicz",2005,560,9
+"Księga Jesiennych Demonów","Jarosław Grzędowicz",2003,320,8
+"Opowiadania","Edgar Allan Poe",1845,400,8
+"Maska Czerwonego Moru","Edgar Allan Poe",1842,64,7
+"Zagłada domu Usherów","Edgar Allan Poe",1839,80,7
+"Pod kopułą","Stephen King",2009,1074,8
+"Outsider","Stephen King",2018,560,8
+"Instytut","Stephen King",2019,576,8
+"Joyland","Stephen King",2013,288,7
+"11/22/63","Stephen King",2011,849,9
+"Misery","Stephen King",1987,370,8
+"Carrie","Stephen King",1974,199,6
+"Zew Cthulhu","H.P. Lovecraft",1928,420,8
+"W górach szaleństwa","H.P. Lovecraft",1936,240,7
+"Cień spoza czasu","H.P. Lovecraft",1936,160,7
+"Call Me by Your Name","André Aciman",2007,256,8
+"Arystoteles i Dante odkrywają sekrety wszechświata","Benjamin Alire Sáenz",2012,368,8
+"Fault in Our Stars","John Green",2012,313,8
+"Paper Towns","John Green",2008,305,7
+"Looking for Alaska","John Green",2005,221,7
+"Ready Player Two","Ernest Cline",2020,384,6
+"Project Hail Mary","Andy Weir",2021,476,9
+"Hyperion","Dan Simmons",1989,482,9
+"Upadek Hyperiona","Dan Simmons",1990,517,9
+"Ilium","Dan Simmons",2003,752,8
+"Olympos","Dan Simmons",2005,891,8
