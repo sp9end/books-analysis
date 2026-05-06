@@ -1,0 +1,39 @@
+==================================================
+BOOKS COLLECTION ANALYSIS REPORT
+Generated: 2026-05-06
+==================================================
+
+BASIC STATISTICS
+------------------------------
+Total books:    179
+Avg rating:     7.80
+Median rating:  8.00
+Avg pages:      419
+Longest book:   1276 pages
+Shortest book:  64 pages
+
+TOP 10 AUTHORS
+------------------------------
+Stephen King: 12 books
+Stanisław Lem: 6 books
+Rick Riordan: 5 books
+Fiodor Dostojewski: 4 books
+Charles Dickens: 4 books
+Andy Weir: 4 books
+Christopher Paolini: 4 books
+Orson Scott Card: 4 books
+Dan Simmons: 4 books
+J.K. Rowling: 3 books
+
+TOP 10 HIGHEST RATED BOOKS
+------------------------------
+10/10 - Mały Książę by Antoine de Saint-Exupéry
+10/10 - Hobbit by J.R.R. Tolkien
+10/10 - Gra o tron by George R.R. Martin
+10/10 - Diuna by Frank Herbert
+10/10 - Mistrz i Małgorzata by Michaił Bułhakow
+10/10 - Hrabia Monte Christo by Alexandre Dumas
+9/10 - 1984 by George Orwell
+9/10 - Duma i uprzedzenie by Jane Austen
+9/10 - Władca Pierścieni: Drużyna Pierścienia by J.R.R. Tolkien
+9/10 - Harry Potter i Więzień Azkabanu by J.K. Rowling
